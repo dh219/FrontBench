@@ -16,6 +16,7 @@ Some examples I've collected:
 Stock 8MHz PAL STE: ~850 frames.
 
 16MHz PAL STE: ~940 frames.
+32MHz PAL STE: ~1100 frames.
 16MHz PAL STE + 7MB/s AltRAM: ~1320 frames.
 
 Stock Falcon @60Hz VGA mode: ~1650 frames
