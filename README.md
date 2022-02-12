@@ -19,8 +19,10 @@ Stock 8MHz PAL STE: ~850 frames.
 32MHz PAL STE: ~1100 frames [exxos].  
 16MHz PAL STE + 7MB/s AltRAM: ~1320 frames.  
 
+16MHz PAL Mega ST + Hypercache: ~1505 frames [czietz].  
+
 Stock Falcon @60Hz VGA mode: ~1650 frames.  
-Stock Falcon @50Hz RGB mode: ~2070 frames.
+Stock Falcon @50Hz RGB mode: ~2070 frames.  
 
 50MHz PAL Mega ST+TF536: ~2440 frames [coonsgm].  
 50MHz PAL H5[STF]+TF536: ~2700 frames [davec].  
