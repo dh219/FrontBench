@@ -17,6 +17,7 @@ Stock 8MHz PAL STE: ~850 frames.
 
 16MHz PAL STE: ~940 frames.  
 32MHz PAL STE: ~1100 frames [exxos].  
+64MHz PAL H4 ST: ~1155 frames [exxos].  
 16MHz PAL STE + 7MB/s AltRAM: ~1320 frames.  
 
 16MHz PAL Mega ST + Hypercache: ~1505 frames [czietz].  
