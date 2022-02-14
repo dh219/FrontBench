@@ -22,13 +22,19 @@ Stock 8MHz PAL STE: ~850 frames.
 
 16MHz PAL Mega ST + Hypercache: ~1505 frames [czietz].  
 
-Stock Falcon @60Hz VGA mode: ~1650 frames.  
-Stock Falcon @50Hz RGB mode: ~2070 frames.  
+Stock Falcon @60Hz 60Hz VGA mode: ~1650 frames.  
+Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.  
 
 50MHz PAL Mega ST+TF536: ~2440 frames [coonsgm].  
 50MHz PAL H5[STF]+TF536: ~2700 frames [davec].  
+32MHz TT (Stock + TTRAM) 60Hz VGA mode: ~2875 frames [stephen_usher, susher].  
+
+50MHz PAL H5 + TF536-ST (TOS206): ~2830 frames [exxos].  
+50MHz PAL H5 + TF536-ST (EMUTOS): ~3140 frames [exxos].*  
 
 50MHz DFB1 Falcon + 33MB/s AltRAM @50Hz RGB mode: ~4160 frames.
+
+*pending verification
 
 # Use
 
