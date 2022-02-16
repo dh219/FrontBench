@@ -15,7 +15,7 @@ Some examples I've collected:
 
 Stock 8MHz PAL STE: ~850 frames.  
 
-8MHz NTSC Mega ST4 with 68010: frames ~930 [frank.lukas].  
+8MHz PAL Mega ST4 with 68010: frames ~930 [frank.lukas].  
 
 16MHz PAL STE: ~940 frames.  
 32MHz PAL STE: ~1100 frames [exxos].  
@@ -29,7 +29,7 @@ Stock NTSC Atari Mega STe (L2 cache): ~1227 frames [darklord].
 
 16MHz PAL Mega ST + Hypercache: ~1505 frames [czietz].  
 
-50MHz PAL Mega ST4, PAK68/3-030 (no Fastram no L2 cache): ~1500 frames [frank.lucas].  
+50MHz PAL Mega ST4, PAK68/3-030 (no Fastram no L2 cache): ~1500 frames [frank.lukas].  
 
 Stock Falcon @60Hz 60Hz VGA mode: ~1650 frames.  
 Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.  
@@ -41,7 +41,7 @@ Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.
 
 50MHz PAL H5 + TF536-ST: ~2930 frames [exxos].  
 
-40MHz PAL Mega ST4, PAK68/3-030 (L2 cache, no FASTRAM): ~3100 frames [frank.lucas].  
+40MHz PAL Mega ST4, PAK68/3-030 (L2 cache, no FASTRAM): ~3100 frames [frank.lukas].  
 40MHz NTSC STacy + Pak 68/3 (L2 cache, no FASTRAM): ~3160 frames [darklord].  
 
 48MHz TT + EDO TTRAM 60Hz VGA mode: ~3420 frames [czietz].  
