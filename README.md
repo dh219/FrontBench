@@ -13,9 +13,10 @@ Frontier (and FrontBench) requires a 1MB machine.
 
 Some examples I've collected:
 
-Stock 8MHz PAL STE: ~850 frames.  
+Stock 8MHz PAL STE: ~885 frames.  
 
-8MHz PAL Mega ST4 with 68010: frames ~930 [frank.lukas].  
+8MHz PAL ST + STORM AltRAM: frames ~905 [czietz].  
+8MHz PAL Mega ST4 with 68010 + AltRAM: frames ~930 [frank.lukas].  
 
 16MHz PAL STE: ~940 frames.  
 32MHz PAL STE: ~1100 frames [exxos].  
