@@ -36,8 +36,9 @@ Stock NTSC Atari Mega STe (L2 cache): ~1227 frames [darklord].
 Stock Falcon @60Hz 60Hz VGA mode: ~1650 frames.  
 Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.  
 
-50MHz PAL Mega ST+TF536: ~2440 frames [coonsgm].  
-50MHz PAL H5[STF]+TF536: ~2700 frames [davec].  
+50MHz PAL Mega ST+TF536 (TTRAM): ~2440 frames [coonsgm].  
+50MHz PAL H5[STF]+TF536 (TTRAM): ~2700 frames [davec].  
+50MHz PAL STFM+ST536(Exxos) (TTRAM): ~2940 frames [elethiomel].  
 
 32MHz TT (Stock + TTRAM) 60Hz VGA mode: ~2875 frames [stephen_usher, susher].  
 
