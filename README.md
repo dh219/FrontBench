@@ -44,6 +44,8 @@ Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.
 
 40MHz PAL Mega ST4, PAK68/3-030 (L2 cache, no FASTRAM): ~3100 frames [frank.lukas].  
 
+50MHz PAL H5+TF536-ST w/cache enabled with MAPROM_C: ~3210 frames [steve].  
+
 50MHz DFB1 Falcon + 33MB/s AltRAM @50Hz RGB mode: ~4160 frames.  
 
 
