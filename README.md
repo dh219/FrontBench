@@ -49,6 +49,8 @@ Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.
 50MHz PAL STM+TF536-ST with experimental full-ST-RAM writethrough cache (no DMA): ~4110 frames [agranlund].  
 50MHz DFB1 Falcon + 33MB/s AltRAM @50Hz RGB mode: ~4160 frames.  
 
+50MHz Falcon + CT2b @50Hz RGB: **~6525** frames [atari030]. 
+
 
 #### NTSC/VGA (60Hz VBL)
 ##### Game time runs faster in the 60Hz mode therefore there are ~16% fewer frames on average on 60Hz machines
@@ -64,6 +66,8 @@ Stock Falcon 60Hz VGA mode: ~1650 frames.
 48MHz TT + EDO TTRAM 60Hz VGA: ~3420 frames [czietz].  
 
 48MHz TT (SpeedyTT + SuperStorm TT-RAM 60Hz VGA: ~3660 frames [steve].  
+
+50MHz Falcon + CT2b @60Hz VGA: ~5320 frames [atari030]. 
 
 75MHz Falcon + CT63 (060) VGA mode: **~6315** frames [coonsgm]. 
 
