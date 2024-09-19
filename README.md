@@ -69,8 +69,9 @@ Stock Falcon 60Hz VGA mode: ~1650 frames.
 
 50MHz Falcon + CT2b @60Hz VGA: ~5320 frames [atari030]. 
 
-75MHz Falcon + CT63 (060) VGA mode: **~6315** frames [coonsgm]. 
+75MHz Falcon + CT63 (060) VGA mode: ~6315 frames [coonsgm]. 
 
+95MHz Falcon + CT63 (060) NTSC [no NVDI]: **~10020** frames [coonsgm]
 
 # Use
 
