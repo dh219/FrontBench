@@ -56,8 +56,6 @@ Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.
 
 50MHz Falcon + CT2b @50Hz RGB: **~6525** frames [atari030]. 
 
-At 50Hz (PAL) with 4Mb of ST-RAM and 8Mb Alt-RAM, I get:
-
 
 #### NTSC/VGA (60Hz VBL)
 ##### Game time runs faster in the 60Hz mode therefore there are ~16% fewer frames on average on 60Hz machines
