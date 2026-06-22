@@ -37,10 +37,15 @@ Stock 8MHz PAL STE: ~880 frames [various].
 Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.  
 
 50MHz PAL Mega ST+TF536 (TTRAM): ~2440 frames [coonsgm].  
+
+48MHz PAL 68000 MonSTErbo (w/ AltRAM): ~2560 frames [simonlaszcz]
+
 50MHz PAL H5[STF]+TF536 (TTRAM): ~2700 frames [davec].  
 50MHz PAL STFM+ST536(Exxos) (TTRAM): ~2940 frames [elethiomel].  
 
 50MHz PAL H5 + TF536-ST: ~2930 frames [exxos].  
+
+40MHz PAL 68020 MonSTErbo (w/ AltRAM): ~3005 frames [simonlaszcz]
 
 40MHz PAL Mega ST4, PAK68/3-030 (L2 cache, no FASTRAM): ~3100 frames [frank.lukas].  
 
@@ -50,6 +55,8 @@ Stock Falcon @50Hz 50Hz RGB mode: ~2070 frames.
 50MHz DFB1 Falcon + 33MB/s AltRAM @50Hz RGB mode: ~4160 frames.  
 
 50MHz Falcon + CT2b @50Hz RGB: **~6525** frames [atari030]. 
+
+At 50Hz (PAL) with 4Mb of ST-RAM and 8Mb Alt-RAM, I get:
 
 
 #### NTSC/VGA (60Hz VBL)
